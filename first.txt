@@ -4,4 +4,8 @@ Kal Sunday Hai
 7
 4
 master
+<<<<<<< HEAD
 paracetamol
+=======
+Aspirin
+>>>>>>> br1
